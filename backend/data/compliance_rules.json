@@ -1,0 +1,104 @@
+{
+    "earthquake_zones": {
+        "Delhi": 4,
+        "Chandigarh": 4,
+        "Dehradun": 4,
+        "Guwahati": 5,
+        "Mumbai": 3,
+        "Pune": 3,
+        "Nagpur": 2,
+        "Kolkata": 3,
+        "Chennai": 2,
+        "Hyderabad": 2,
+        "Bangalore": 2,
+        "Ahmedabad": 3,
+        "Jaipur": 3,
+        "Lucknow": 3,
+        "Patna": 4,
+        "Bhopal": 2,
+        "Indore": 2,
+        "Surat": 3,
+        "Kochi": 3,
+        "Coimbatore": 2,
+        "Visakhapatnam": 3,
+        "Bhubaneswar": 3,
+        "Vadodara": 3,
+        "Mysore": 2,
+        "Agra": 3,
+        "Varanasi": 3,
+        "Madurai": 2,
+        "Raipur": 2,
+        "Guwahati": 5,
+        "default": 2
+    },
+    "fsi_limits": {
+        "Metro": {
+            "Residential": 2.5,
+            "Commercial": 3.5,
+            "Industrial": 1.5,
+            "Infrastructure": 2.0
+        },
+        "Tier2": {
+            "Residential": 2.0,
+            "Commercial": 3.0,
+            "Industrial": 1.5,
+            "Infrastructure": 2.0
+        },
+        "Tier3": {
+            "Residential": 1.5,
+            "Commercial": 2.5,
+            "Industrial": 1.2,
+            "Infrastructure": 1.5
+        }
+    },
+    "setback_requirements": {
+        "Residential": {
+            "front": 3,
+            "rear": 2,
+            "side": 1.5
+        },
+        "Commercial": {
+            "front": 6,
+            "rear": 3,
+            "side": 3
+        },
+        "Industrial": {
+            "front": 9,
+            "rear": 6,
+            "side": 4.5
+        },
+        "Infrastructure": {
+            "front": 6,
+            "rear": 3,
+            "side": 3
+        }
+    },
+    "height_restrictions": {
+        "Metro": {
+            "Residential": 45,
+            "Commercial": 70,
+            "Industrial": 30,
+            "Infrastructure": 50
+        },
+        "Tier2": {
+            "Residential": 35,
+            "Commercial": 55,
+            "Industrial": 25,
+            "Infrastructure": 40
+        },
+        "Tier3": {
+            "Residential": 25,
+            "Commercial": 40,
+            "Industrial": 20,
+            "Infrastructure": 30
+        }
+    },
+    "fire_safety_height_threshold_m": 15,
+    "green_building_area_threshold_sqft": 20000,
+    "parking_requirements": {
+        "Residential": 1,
+        "Commercial": 2,
+        "Industrial": 0.5,
+        "Infrastructure": 1
+    }
+}

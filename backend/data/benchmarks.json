@@ -1,0 +1,136 @@
+{
+    "cost_per_sqft": {
+        "Residential": {
+            "Economy": {
+                "industry_avg": 1200,
+                "regional_metro": 1350,
+                "regional_tier2": 1100,
+                "regional_tier3": 900,
+                "best_in_class": 1050
+            },
+            "Standard": {
+                "industry_avg": 1650,
+                "regional_metro": 1850,
+                "regional_tier2": 1550,
+                "regional_tier3": 1300,
+                "best_in_class": 1450
+            },
+            "Premium": {
+                "industry_avg": 2200,
+                "regional_metro": 2500,
+                "regional_tier2": 2100,
+                "regional_tier3": 1800,
+                "best_in_class": 1950
+            },
+            "Luxury": {
+                "industry_avg": 3200,
+                "regional_metro": 3800,
+                "regional_tier2": 3000,
+                "regional_tier3": 2600,
+                "best_in_class": 2800
+            }
+        },
+        "Commercial": {
+            "Economy": {
+                "industry_avg": 1500,
+                "regional_metro": 1700,
+                "regional_tier2": 1400,
+                "regional_tier3": 1150,
+                "best_in_class": 1300
+            },
+            "Standard": {
+                "industry_avg": 2000,
+                "regional_metro": 2300,
+                "regional_tier2": 1900,
+                "regional_tier3": 1600,
+                "best_in_class": 1750
+            },
+            "Premium": {
+                "industry_avg": 2800,
+                "regional_metro": 3200,
+                "regional_tier2": 2650,
+                "regional_tier3": 2300,
+                "best_in_class": 2500
+            },
+            "Luxury": {
+                "industry_avg": 4000,
+                "regional_metro": 4800,
+                "regional_tier2": 3800,
+                "regional_tier3": 3400,
+                "best_in_class": 3600
+            }
+        },
+        "Industrial": {
+            "Economy": {
+                "industry_avg": 1000,
+                "regional_metro": 1150,
+                "regional_tier2": 950,
+                "regional_tier3": 800,
+                "best_in_class": 880
+            },
+            "Standard": {
+                "industry_avg": 1400,
+                "regional_metro": 1600,
+                "regional_tier2": 1300,
+                "regional_tier3": 1100,
+                "best_in_class": 1200
+            },
+            "Premium": {
+                "industry_avg": 1900,
+                "regional_metro": 2200,
+                "regional_tier2": 1800,
+                "regional_tier3": 1550,
+                "best_in_class": 1650
+            },
+            "Luxury": {
+                "industry_avg": 2600,
+                "regional_metro": 3000,
+                "regional_tier2": 2400,
+                "regional_tier3": 2100,
+                "best_in_class": 2300
+            }
+        },
+        "Infrastructure": {
+            "Economy": {
+                "industry_avg": 1800,
+                "regional_metro": 2100,
+                "regional_tier2": 1700,
+                "regional_tier3": 1450,
+                "best_in_class": 1580
+            },
+            "Standard": {
+                "industry_avg": 2500,
+                "regional_metro": 2900,
+                "regional_tier2": 2350,
+                "regional_tier3": 2000,
+                "best_in_class": 2200
+            },
+            "Premium": {
+                "industry_avg": 3500,
+                "regional_metro": 4100,
+                "regional_tier2": 3300,
+                "regional_tier3": 2850,
+                "best_in_class": 3100
+            },
+            "Luxury": {
+                "industry_avg": 5000,
+                "regional_metro": 5800,
+                "regional_tier2": 4700,
+                "regional_tier3": 4200,
+                "best_in_class": 4500
+            }
+        }
+    },
+    "category_distribution": {
+        "Foundation": 0.12,
+        "Structure": 0.25,
+        "Brickwork": 0.08,
+        "Flooring": 0.10,
+        "Roofing": 0.07,
+        "Plastering": 0.06,
+        "Painting": 0.05,
+        "Electrical": 0.09,
+        "Plumbing": 0.08,
+        "Finishing": 0.10
+    }
+}

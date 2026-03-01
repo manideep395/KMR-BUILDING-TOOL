@@ -1,0 +1,175 @@
+{
+    "states": {
+        "Maharashtra": {
+            "mason_daily": 900,
+            "helper_daily": 550,
+            "electrician_daily": 1100,
+            "plumber_daily": 1050,
+            "carpenter_daily": 1000,
+            "supervisor_daily": 1400,
+            "labor_pct_of_material": 0.32
+        },
+        "Delhi": {
+            "mason_daily": 950,
+            "helper_daily": 600,
+            "electrician_daily": 1150,
+            "plumber_daily": 1100,
+            "carpenter_daily": 1050,
+            "supervisor_daily": 1500,
+            "labor_pct_of_material": 0.33
+        },
+        "Karnataka": {
+            "mason_daily": 850,
+            "helper_daily": 500,
+            "electrician_daily": 1050,
+            "plumber_daily": 1000,
+            "carpenter_daily": 950,
+            "supervisor_daily": 1350,
+            "labor_pct_of_material": 0.30
+        },
+        "Telangana": {
+            "mason_daily": 820,
+            "helper_daily": 480,
+            "electrician_daily": 1020,
+            "plumber_daily": 980,
+            "carpenter_daily": 920,
+            "supervisor_daily": 1300,
+            "labor_pct_of_material": 0.29
+        },
+        "Tamil Nadu": {
+            "mason_daily": 800,
+            "helper_daily": 470,
+            "electrician_daily": 1000,
+            "plumber_daily": 960,
+            "carpenter_daily": 900,
+            "supervisor_daily": 1280,
+            "labor_pct_of_material": 0.28
+        },
+        "Gujarat": {
+            "mason_daily": 780,
+            "helper_daily": 460,
+            "electrician_daily": 980,
+            "plumber_daily": 940,
+            "carpenter_daily": 880,
+            "supervisor_daily": 1250,
+            "labor_pct_of_material": 0.28
+        },
+        "West Bengal": {
+            "mason_daily": 720,
+            "helper_daily": 420,
+            "electrician_daily": 920,
+            "plumber_daily": 880,
+            "carpenter_daily": 820,
+            "supervisor_daily": 1180,
+            "labor_pct_of_material": 0.27
+        },
+        "Uttar Pradesh": {
+            "mason_daily": 680,
+            "helper_daily": 400,
+            "electrician_daily": 870,
+            "plumber_daily": 830,
+            "carpenter_daily": 780,
+            "supervisor_daily": 1100,
+            "labor_pct_of_material": 0.26
+        },
+        "Rajasthan": {
+            "mason_daily": 700,
+            "helper_daily": 410,
+            "electrician_daily": 890,
+            "plumber_daily": 850,
+            "carpenter_daily": 800,
+            "supervisor_daily": 1120,
+            "labor_pct_of_material": 0.26
+        },
+        "Madhya Pradesh": {
+            "mason_daily": 660,
+            "helper_daily": 380,
+            "electrician_daily": 840,
+            "plumber_daily": 800,
+            "carpenter_daily": 760,
+            "supervisor_daily": 1060,
+            "labor_pct_of_material": 0.25
+        },
+        "Bihar": {
+            "mason_daily": 620,
+            "helper_daily": 360,
+            "electrician_daily": 800,
+            "plumber_daily": 760,
+            "carpenter_daily": 720,
+            "supervisor_daily": 1000,
+            "labor_pct_of_material": 0.25
+        },
+        "Andhra Pradesh": {
+            "mason_daily": 790,
+            "helper_daily": 465,
+            "electrician_daily": 990,
+            "plumber_daily": 950,
+            "carpenter_daily": 890,
+            "supervisor_daily": 1260,
+            "labor_pct_of_material": 0.28
+        },
+        "Kerala": {
+            "mason_daily": 1100,
+            "helper_daily": 700,
+            "electrician_daily": 1350,
+            "plumber_daily": 1300,
+            "carpenter_daily": 1250,
+            "supervisor_daily": 1800,
+            "labor_pct_of_material": 0.35
+        },
+        "Punjab": {
+            "mason_daily": 840,
+            "helper_daily": 500,
+            "electrician_daily": 1050,
+            "plumber_daily": 1000,
+            "carpenter_daily": 940,
+            "supervisor_daily": 1320,
+            "labor_pct_of_material": 0.30
+        },
+        "Odisha": {
+            "mason_daily": 640,
+            "helper_daily": 370,
+            "electrician_daily": 820,
+            "plumber_daily": 780,
+            "carpenter_daily": 740,
+            "supervisor_daily": 1020,
+            "labor_pct_of_material": 0.25
+        },
+        "Assam": {
+            "mason_daily": 660,
+            "helper_daily": 380,
+            "electrician_daily": 840,
+            "plumber_daily": 800,
+            "carpenter_daily": 760,
+            "supervisor_daily": 1060,
+            "labor_pct_of_material": 0.26
+        },
+        "Chhattisgarh": {
+            "mason_daily": 630,
+            "helper_daily": 365,
+            "electrician_daily": 808,
+            "plumber_daily": 768,
+            "carpenter_daily": 728,
+            "supervisor_daily": 1010,
+            "labor_pct_of_material": 0.25
+        },
+        "Uttarakhand": {
+            "mason_daily": 750,
+            "helper_daily": 440,
+            "electrician_daily": 940,
+            "plumber_daily": 900,
+            "carpenter_daily": 850,
+            "supervisor_daily": 1200,
+            "labor_pct_of_material": 0.28
+        }
+    },
+    "default": {
+        "mason_daily": 720,
+        "helper_daily": 430,
+        "electrician_daily": 920,
+        "plumber_daily": 880,
+        "carpenter_daily": 830,
+        "supervisor_daily": 1180,
+        "labor_pct_of_material": 0.28
+    }
+}
