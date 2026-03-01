@@ -88,7 +88,6 @@ pip install -r requirements.txt
 Create a `.env` file inside the `backend` folder and add your keys:
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
-GROQ_API_KEY=your_groq_api_key_here
 ```
 
 Start the FastAPI server:
